@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/7591484/170873021-d3724ffa-8ac8-4711-9a09-ca00041568e0.png" width=300>
+<img src="https://user-images.githubusercontent.com/7591484/170873489-6aa40fe3-9d5c-476b-9434-f12f0a896c85.png" width="20%">
+
 <h1> Scrawler Labs </h1>
-  <br>
  🇮🇳 Made in India 🇮🇳
   <br><br>
   
