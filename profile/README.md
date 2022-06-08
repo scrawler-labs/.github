@@ -22,7 +22,7 @@ Mission of Scarawler Framework : To create a low code and high speed framework f
 The work for scrawler 3 core is actively done on [https://github.com/scrawler-labs/core](https://github.com/scrawler-labs/core) 
 
 ## Community
-We have recently started new community effort around Scrawler Framework, you are invited to join our [Discord Server](https://discord.gg/Ecu9u6yg) my 
-The work for scrawler 3 core is actively done on [https://github.com/scrawler-labs/core](https://github.com/scrawler-labs/core) 
+We have recently started new community effort around Scrawler Framework, you are invited to join our [Discord Server](https://discord.gg/Ecu9u6yg), or you can be a part of [discussion](https://github.com/orgs/scrawler-labs/discussions) on our [Github coummunity](https://github.com/orgs/scrawler-labs/discussions)
 
-Efforts are being made to create websites and docs realted to scrawler on [scrawler.io](https://scrawler.io)
+
+Efforts are being made to combine all docs realted to scrawler component and bring it on the official website [scrawler.io](https://scrawler.io)
