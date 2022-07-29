@@ -8,7 +8,7 @@
 </div>
 
 ## Introduction
-Scrawler labs was started within [Corpusvision](https://corpusvision.com) to create a internal framework, at start of 2022 we decided to start work on Scrawler 3 and make it completely open source.
+Scrawler labs was started in 2021 to create a internal framework for our projects, at start of 2022 we decided to start work on Scrawler 3 and make it completely open source.
 
 ## Mission
 Mission of Scarawler Framework : To create a low code and high speed framework for php, our effors is to build a async and high speed framework based on [open swoole](https://openswoole.com) to complete this effort we have started with creating swoole compatible and async components.
