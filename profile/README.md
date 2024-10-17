@@ -18,6 +18,7 @@ Mission of Scarawler Framework : To create a low code and high speed framework f
 - [Scrawler App](https://github.com/scrawler-labs/app) - The core app module works as router and container (utilizes scrawler/router and PhpDI)
 - [Scrawler Http Foundation](https://github.com/scrawler-labs/http) - Http foundation of Scrawler framework , wrapper upon Symfony Http foundation with added features
 - [Scrawler Database](https://github.com/scrawler-labs/database) - Integration of Arca Orm for Scrawler framework
+- [Scrawler Storage](https://github.com/scrawler-labs/storage) - Storage for Scrawler build upon Flysystem
 - [Scrawler Blade](https://github.com/scrawler-labs/blade) - Blade Integration for Scrawler, Based on BladeOne
 - [Exception](https://github.com/scrawler-labs/exception) - Whoops integration for Scrawler 
 
